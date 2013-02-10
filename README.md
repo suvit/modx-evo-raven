@@ -6,6 +6,7 @@ Raven modx plugin to interact with Sentry server
 ## Requirements
 
  * MODX Evolution 1.0.5 or greater.
+ * curl php extension
 
 ## Installation
 
